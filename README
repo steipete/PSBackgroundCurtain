@@ -1,0 +1,9 @@
+Try to activate the multitasking bar, notice the animated fade to dark.
+
+Suspend the App and start it, and it fades back from black.
+
+This is useful if you have a PinLock Controller.
+
+MIT License.
+
+Works with iOS4 and up.
